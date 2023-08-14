@@ -1,14 +1,27 @@
-# Expo Router Example
+<p align="center">
+  <img height="300" width="175" src="./assets/home_image.png" alt="JobsOnTheGo Logo">
+</p>
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+<p align="center">
+  <span style="color: DodgerBlue; font-weight: bold; font-size: 30px;">Jobs on the go</span>
+</p>
+
+A platform that connects job seekers with remote job opportunities. We're dedicated to helping individuals find flexible work options and navigate the modern job market.
 
 ## 🚀 How to use
 
 ```sh
-npx create-expo-app -e with-router
+npm install
+npx expo start
 ```
 
-## 📝 Notes
+📄 License 
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+🎉 Contributing
+
+Contributions are welcome! Feel free to open issues and pull requests.
+
+
+Visit JobsOnTheGo Website
